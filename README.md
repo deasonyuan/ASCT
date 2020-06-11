@@ -8,7 +8,7 @@ The matlab code for ASCT tracker can be downloaded [here[google]]() or [here[bai
 
 ## Usage
 ### Tracking
-1. If you want to compare our results in your experiment, just download the raw experimental results.
+1. If you want to compare our results in your experiment, just download the raw experimental results（coming soon...）.
 2. If you want to test our experiment:
 
    2.1 Download the code and unzip it in your computer.
