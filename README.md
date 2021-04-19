@@ -4,16 +4,12 @@
 **Abstract:** Convolutional Neural Networks (CNN) have been demonstrated to achieve state-of-the-art performance in visual object tracking task. However, existing CNN-based trackers usually use holistic target samples
 to train their networks. Once the target undergoes complicated situations (e.g., occlusion, background clutter, and deformation), the tracking performance degrades badly. In this paper, we propose an adaptive structural convolutional filter model to enhance the robustness of deep regression trackers (named: ASCT). Specifically, we first design a mask set to generate local filters to capture local structures of the target. Meanwhile, we adopt an adaptive weighting fusion strategy for these local filters to adapt to the changes in the target appearance, which can enhance the robustness of the tracker effectively. Besides, we develop an end-to-end trainable network comprising feature extraction, decision making, and model updating modules for effective training. Extensive experimental results on large benchmark datasets demonstrate the effectiveness of the proposed ASCT tracker performs favorably against the state-of-the-art trackers.
 
-The code for ASCT tracker can be downloaded [here[google]]() or [here[baidu(password:)]]().
+*star* Update:The code for ASCT tracker can be downloaded [here[baidu(password:)]]().
 
 ## Usage
 ### Tracking
-1. If you want to compare our results in your experiment, just download the raw experimental results（coming soon...）.
-2. If you want to test our experiment:
-
-   2.1 Download the code and unzip it in your computer.
-   
-   2.2 Run the demo.m to test a tracking sequence using a default model.
+1 Download the code and unzip it in your computer.
+2 Run the demo.m to test a tracking sequence using a default model.
    
 
 
