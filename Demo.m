@@ -21,7 +21,7 @@ opts.vocEdition = '11' ;
 opts.vocAdditionalSegmentations = false ;
 global resize;
 
-%% add video selection 
+% add video selection 
 base_path = './data'; 
 video_path = choose_video(base_path);
 video=video_path(length(base_path)+1:end-1);
