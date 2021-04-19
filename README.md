@@ -9,16 +9,9 @@ to train their networks. Once the target undergoes complicated situations (e.g.,
 ## Usage
 ### Tracking
 1 Download the code and unzip it in your computer.
+
 2 Run the demo.m to test a tracking sequence using a default model.
    
-
-
-## Results
-| Dataste | OTB2015 | TC128 | UAV123 |
-| --------| ------- | ------ | ----- | 
-| Prec.   | 0.860   | 0.771  | 0.716 |
-| AUC     | 0.644   | 0.558  | 0.506 | 
-
 
 ## Citation
 If you find the code useful, please cite:
